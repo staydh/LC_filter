@@ -34,7 +34,7 @@ Deadlines:
 - First commit até 27/04;
 - Final até 29/04.
 
-** Valores diferentes por aluno (Bianca = 1; Danilo = 2.5; Gleidson = 4; Wisla = 6);
+** Valores diferentes por aluno (Bianca = 1; Danilo = 2.5; Gleidson = 4; Wisla = 6);  
 *** Valores diferentes por aluno (Bianca = 5.8; Danilo 2.4; Gleidson = 0.9; Wisla = 0.433);
 
 ### Referências: 
