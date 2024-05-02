@@ -16,10 +16,6 @@ Esta tarefa é dividida em duas partes, como descrito abaixo:
 - Faça uma comparação entre as duas simulações;
 - Organize o repositório.
 
-Deadlines:
-- First commit até 23/04;
-- Final até 25/04.
-
 ### Parte II
 
 - Projetar um filtro LC com frequência de ressonância em Y*** GHz (Elaborar um script para calcular o valor do capacitor e as suas dimensões);
@@ -30,12 +26,8 @@ Deadlines:
 - Realizar a simulação pós-layout do filtro.
 - Atualizar o repositório.
 
-Deadlines:
-- First commit até 27/04;
-- Final até 29/04.
-
-** Valores diferentes por aluno (Bianca = 1; Danilo = 2.5; Gleidson = 4; Wisla = 6);  
-*** Valores diferentes por aluno (Bianca = 5.8; Danilo 2.4; Gleidson = 0.9; Wisla = 0.433);
+** Valores diferentes por grupo (G1 = 1; G2 = 2.5);  
+*** Valores diferentes por grupo (G1 = 5.8; G2 2.4);
 
 ### Referências: 
 * https://github.com/britovski/sky130_skel
